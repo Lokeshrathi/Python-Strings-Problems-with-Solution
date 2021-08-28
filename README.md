@@ -7,3 +7,5 @@
 3. **URLify** : Write a method to replace all spaces in a string with '%20'. You may assume that the string has sufficient space at the end to hold additional characters.
 4. **String Comprehension** : Implement a method to perform basic string compression using the counts of repeated characters. For ex: "aaaabbccc" -> "a4b2c3" 
 
+Solutions are presenet here.
+
